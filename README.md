@@ -1,4 +1,4 @@
 # sameer-demo
-It is my first git project.
+this is my fisrt git repository.
 <br> 
 Author - sameer khan pathan
